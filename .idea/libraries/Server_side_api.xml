@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Server-side-api">
+    <CLASSES>
+      <root url="jar://$TeamCityDistribution$/devPackage/server-api.jar!/" />
+      <root url="jar://$TeamCityDistribution$/devPackage/common-api.jar!/" />
+      <root url="jar://$TeamCityDistribution$/devPackage/runtime/runtime-util.jar!/" />
+      <root url="jar://$TeamCityDistribution$/devPackage/runtime/serviceMessages.jar!/" />
+      <root url="jar://$TeamCityDistribution$/webapps/ROOT/WEB-INF/lib/annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$TeamCityDistribution$/devPackage/src/openApi-source.jar!/" />
+    </SOURCES>
+  </library>
+</component>
